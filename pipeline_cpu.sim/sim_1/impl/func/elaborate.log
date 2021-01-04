@@ -1,0 +1,59 @@
+Vivado Simulator 2016.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2016.2/bin/unwrapped/win64.o/xelab.exe -wto bbf488b202044b1a828257a4f5951a90 --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L secureip --snapshot pipeline_tb_func_impl xil_defaultlib.pipeline_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module unisims_ver.RAM256X1S
+Compiling module xil_defaultlib.Data_Mem
+Compiling module unisims_ver.x_lut1_mux2
+Compiling module unisims_ver.LUT1
+Compiling module unisims_ver.sffsrce_fdre
+Compiling module unisims_ver.FDRE
+Compiling module unisims_ver.CARRY4
+Compiling module xil_defaultlib.clk_div
+Compiling module unisims_ver.BUFG
+Compiling module unisims_ver.OBUF
+Compiling module unisims_ver.IBUF
+Compiling module unisims_ver.DSP48E1(ACASCREG=0,ALUMODEREG=0,...
+Compiling module unisims_ver.x_lut2_mux4
+Compiling module unisims_ver.LUT2
+Compiling module xil_defaultlib.MULU
+Compiling module xil_defaultlib.MUL
+Compiling module xil_defaultlib.Assist_ALU
+Compiling module unisims_ver.LUT4
+Compiling module unisims_ver.latchsre_ldce
+Compiling module unisims_ver.LDCE
+Compiling module unisims_ver.x_lut3_mux4
+Compiling module unisims_ver.x_lut3_mux4_reduced_0
+Compiling module unisims_ver.LUT3
+Compiling module xil_defaultlib.Control
+Compiling module unisims_ver.ffsrce_fdce
+Compiling module unisims_ver.FDCE(IS_C_INVERTED=1'b1)
+Compiling module unisims_ver.LUT6
+Compiling module unisims_ver.ffsrce_fdpe
+Compiling module unisims_ver.FDPE(IS_C_INVERTED=1'b1)
+Compiling module unisims_ver.MUXF7
+Compiling module unisims_ver.MUXF8
+Compiling module xil_defaultlib.Data_CONF
+Compiling module unisims_ver.FDCE
+Compiling module unisims_ver.LUT5
+Compiling module xil_defaultlib.EX_MEM_Reg
+Compiling module unisims_ver.FDPE
+Compiling module xil_defaultlib.ID_EX_Reg
+Compiling module xil_defaultlib.ROM_dist_mem_gen_v8_0_10
+Compiling module xil_defaultlib.ROM
+Compiling module xil_defaultlib.IF_Module
+Compiling module xil_defaultlib.IF_ID_Reg
+Compiling module xil_defaultlib.LOHI
+Compiling module xil_defaultlib.MEM_WB_Reg
+Compiling module xil_defaultlib.RegFile
+Compiling module xil_defaultlib.Pipeline_Core
+Compiling module xil_defaultlib.seg7x16
+Compiling module xil_defaultlib.Pipeline_cpu
+Compiling module xil_defaultlib.pipeline_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot pipeline_tb_func_impl

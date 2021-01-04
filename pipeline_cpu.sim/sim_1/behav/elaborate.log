@@ -1,0 +1,36 @@
+Vivado Simulator 2016.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2016.2/bin/unwrapped/win64.o/xelab.exe -wto bbf488b202044b1a828257a4f5951a90 --debug typical --relax --mt 2 -L dist_mem_gen_v8_0_10 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot pipeline_tb_behav xil_defaultlib.pipeline_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port cs [E:/Vivado-projects/pipeline_cpu/pipeline_cpu.srcs/sources_1/new/Pipeline_cpu.v:46]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.clk_div
+Compiling module dist_mem_gen_v8_0_10.dist_mem_gen_v8_0_10(C_FAMILY="a...
+Compiling module xil_defaultlib.ROM
+Compiling module xil_defaultlib.IF_Module
+Compiling module xil_defaultlib.IF_ID_Reg
+Compiling module xil_defaultlib.RegFile
+Compiling module xil_defaultlib.Compartor
+Compiling module xil_defaultlib.Control
+Compiling module xil_defaultlib.Data_CONF
+Compiling module xil_defaultlib.LOHI
+Compiling module xil_defaultlib.ID_EX_Reg
+Compiling module xil_defaultlib.ALU
+Compiling module xil_defaultlib.MUL
+Compiling module xil_defaultlib.MULU
+Compiling module xil_defaultlib.Assist_ALU
+Compiling module xil_defaultlib.EX_MEM_Reg
+Compiling module xil_defaultlib.MEM_WB_Reg
+Compiling module xil_defaultlib.Pipeline_Core
+Compiling module xil_defaultlib.Data_Mem
+Compiling module xil_defaultlib.seg7x16
+Compiling module xil_defaultlib.io_sel
+Compiling module xil_defaultlib.sw_mem_sel
+Compiling module xil_defaultlib.Pipeline_cpu
+Compiling module xil_defaultlib.pipeline_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot pipeline_tb_behav

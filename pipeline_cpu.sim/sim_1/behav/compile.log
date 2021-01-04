@@ -1,0 +1,49 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado-projects/pipeline_cpu/pipeline_cpu.ip_user_files/ipstatic/dist_mem_gen_v8_0_10/simulation/dist_mem_gen_v8_0.v" into library dist_mem_gen_v8_0_10
+INFO: [VRFC 10-311] analyzing module dist_mem_gen_v8_0_10
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado-projects/pipeline_cpu/pipeline_cpu.srcs/sources_1/ip/ROM/sim/ROM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ROM
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado-projects/pipeline_cpu/pipeline_cpu.srcs/sources_1/new/MULU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MULU
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado-projects/pipeline_cpu/pipeline_cpu.srcs/sources_1/new/MUL.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUL
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado-projects/pipeline_cpu/pipeline_cpu.srcs/sources_1/new/RegFile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegFile
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado-projects/pipeline_cpu/pipeline_cpu.srcs/sources_1/new/MEM_WB_Reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MEM_WB_Reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado-projects/pipeline_cpu/pipeline_cpu.srcs/sources_1/new/LOHI.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LOHI
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado-projects/pipeline_cpu/pipeline_cpu.srcs/sources_1/new/IF_Module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IF_Module
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado-projects/pipeline_cpu/pipeline_cpu.srcs/sources_1/new/IF_ID_Reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IF_ID_Reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado-projects/pipeline_cpu/pipeline_cpu.srcs/sources_1/new/ID_EX_Reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ID_EX_Reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado-projects/pipeline_cpu/pipeline_cpu.srcs/sources_1/new/EX_MEM_Reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EX_MEM_Reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado-projects/pipeline_cpu/pipeline_cpu.srcs/sources_1/new/Data_CONF.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Data_CONF
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado-projects/pipeline_cpu/pipeline_cpu.srcs/sources_1/new/Control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Control
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado-projects/pipeline_cpu/pipeline_cpu.srcs/sources_1/new/Compartor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Compartor
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado-projects/pipeline_cpu/pipeline_cpu.srcs/sources_1/new/Assist_ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Assist_ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado-projects/pipeline_cpu/pipeline_cpu.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado-projects/pipeline_cpu/pipeline_cpu.srcs/sources_1/new/Pipeline_Core.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Pipeline_Core
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado-projects/pipeline_cpu/pipeline_cpu.srcs/sources_1/new/Data_Mem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Data_Mem
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado-projects/pipeline_cpu/pipeline_cpu.srcs/sources_1/new/sw_mem_sel.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sw_mem_sel
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado-projects/pipeline_cpu/pipeline_cpu.srcs/sources_1/new/seg7x16.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seg7x16
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado-projects/pipeline_cpu/pipeline_cpu.srcs/sources_1/new/io_sel.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module io_sel
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado-projects/pipeline_cpu/pipeline_cpu.srcs/sources_1/new/Pipeline_cpu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Pipeline_cpu
+INFO: [VRFC 10-311] analyzing module clk_div
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado-projects/pipeline_cpu/pipeline_cpu.srcs/sim_1/new/pipeline_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pipeline_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado-projects/pipeline_cpu/pipeline_cpu.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

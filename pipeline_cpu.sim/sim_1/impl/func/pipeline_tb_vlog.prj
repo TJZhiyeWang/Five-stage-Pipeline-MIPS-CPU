@@ -1,0 +1,6 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "pipeline_tb_func_impl.v"
+verilog xil_defaultlib  "../../../../pipeline_cpu.srcs/sim_1/new/pipeline_tb.v"
+
+# Do not sort compile order
+nosort

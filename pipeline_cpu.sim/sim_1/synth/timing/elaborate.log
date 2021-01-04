@@ -1,0 +1,99 @@
+Vivado Simulator 2016.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2016.2/bin/unwrapped/win64.o/xelab.exe -wto bbf488b202044b1a828257a4f5951a90 --debug typical --relax --mt 2 --maxdelay -L xil_defaultlib -L simprims_ver -L secureip --snapshot pipeline_tb_time_synth -transport_int_delays -pulse_r 0 -pulse_int_r 0 xil_defaultlib.pipeline_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+INFO: [XSIM 43-3451] SDF backannotation process started with SDF file "pipeline_tb_time_synth.sdf", for root module "pipeline_tb/CPU_inst".
+INFO: [XSIM 43-3452] SDF backannotation was successful for SDF file "pipeline_tb_time_synth.sdf", for root module "pipeline_tb/CPU_inst".
+Time Resolution for simulation is 1ps
+Compiling module simprims_ver.MUXF7
+Compiling module simprims_ver.MUXF8
+Compiling module simprims_ver.RAMS64E(RAM_ADDRESS_SPACE=2'b11)
+Compiling module simprims_ver.RAMS64E(RAM_ADDRESS_SPACE=2'b10)
+Compiling module simprims_ver.RAMS64E(RAM_ADDRESS_SPACE=2'b01)
+Compiling module simprims_ver.RAMS64E
+Compiling module xil_defaultlib.RAM256X1S_UNIQ_BASE_
+Compiling module xil_defaultlib.RAM256X1S_HD1
+Compiling module xil_defaultlib.RAM256X1S_HD2
+Compiling module xil_defaultlib.RAM256X1S_HD3
+Compiling module xil_defaultlib.RAM256X1S_HD4
+Compiling module xil_defaultlib.RAM256X1S_HD5
+Compiling module xil_defaultlib.RAM256X1S_HD6
+Compiling module xil_defaultlib.RAM256X1S_HD7
+Compiling module xil_defaultlib.RAM256X1S_HD8
+Compiling module xil_defaultlib.RAM256X1S_HD9
+Compiling module xil_defaultlib.RAM256X1S_HD10
+Compiling module xil_defaultlib.RAM256X1S_HD11
+Compiling module xil_defaultlib.RAM256X1S_HD12
+Compiling module xil_defaultlib.RAM256X1S_HD13
+Compiling module xil_defaultlib.RAM256X1S_HD14
+Compiling module xil_defaultlib.RAM256X1S_HD15
+Compiling module xil_defaultlib.RAM256X1S_HD16
+Compiling module xil_defaultlib.RAM256X1S_HD17
+Compiling module xil_defaultlib.RAM256X1S_HD18
+Compiling module xil_defaultlib.RAM256X1S_HD19
+Compiling module xil_defaultlib.RAM256X1S_HD20
+Compiling module xil_defaultlib.RAM256X1S_HD21
+Compiling module xil_defaultlib.RAM256X1S_HD22
+Compiling module xil_defaultlib.RAM256X1S_HD23
+Compiling module xil_defaultlib.RAM256X1S_HD24
+Compiling module xil_defaultlib.RAM256X1S_HD25
+Compiling module xil_defaultlib.RAM256X1S_HD26
+Compiling module xil_defaultlib.RAM256X1S_HD27
+Compiling module xil_defaultlib.RAM256X1S_HD28
+Compiling module xil_defaultlib.RAM256X1S_HD29
+Compiling module xil_defaultlib.RAM256X1S_HD30
+Compiling module xil_defaultlib.RAM256X1S_HD31
+Compiling module xil_defaultlib.Data_Mem
+Compiling module simprims_ver.x_lut1_mux2
+Compiling module simprims_ver.LUT1
+Compiling module simprims_ver.sffsrce_fdre
+Compiling module simprims_ver.FDRE
+Compiling module simprims_ver.CARRY4
+Compiling module xil_defaultlib.clk_div
+Compiling module simprims_ver.BUFG
+Compiling module simprims_ver.OBUF
+Compiling module simprims_ver.IBUF
+Compiling module simprims_ver.DSP48E1(ACASCREG=0,ALUMODEREG=0,...
+Compiling module simprims_ver.x_lut2_mux4
+Compiling module simprims_ver.LUT2
+Compiling module xil_defaultlib.MULU
+Compiling module xil_defaultlib.MUL
+Compiling module xil_defaultlib.Assist_ALU
+Compiling module simprims_ver.LUT4
+Compiling module simprims_ver.latchsre_ldce
+Compiling module simprims_ver.LDCE
+Compiling module simprims_ver.x_lut3_mux4
+Compiling module simprims_ver.x_lut3_mux4_reduced_0
+Compiling module simprims_ver.LUT3
+Compiling module xil_defaultlib.Control
+Compiling module simprims_ver.ffsrce_fdce
+Compiling module simprims_ver.FDCE(IS_C_INVERTED=1'b1)
+Compiling module simprims_ver.LUT6
+Compiling module simprims_ver.ffsrce_fdpe
+Compiling module simprims_ver.FDPE(IS_C_INVERTED=1'b1)
+Compiling module xil_defaultlib.Data_CONF
+Compiling module simprims_ver.FDCE
+Compiling module simprims_ver.LUT5
+Compiling module xil_defaultlib.EX_MEM_Reg
+Compiling module simprims_ver.FDPE
+Compiling module xil_defaultlib.ID_EX_Reg
+Compiling module simprims_ver.GND
+Compiling module xil_defaultlib.ROM_dist_mem_gen_v8_0_10_rom
+Compiling module xil_defaultlib.ROM_dist_mem_gen_v8_0_10_synth
+Compiling module xil_defaultlib.ROM_dist_mem_gen_v8_0_10
+Compiling module xil_defaultlib.ROM
+Compiling module xil_defaultlib.IF_Module
+Compiling module xil_defaultlib.IF_ID_Reg
+Compiling module xil_defaultlib.LOHI
+Compiling module xil_defaultlib.MEM_WB_Reg
+Compiling module xil_defaultlib.RegFile
+Compiling module xil_defaultlib.Pipeline_Core
+Compiling module xil_defaultlib.seg7x16
+Compiling module xil_defaultlib.Pipeline_cpu
+Compiling module xil_defaultlib.pipeline_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot pipeline_tb_time_synth
